@@ -1,0 +1,18 @@
+body {
+    display: flex;
+
+}
+
+li {
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(122, 66, 66)
+}
+
+a:hover {
+    color: yellowgreen;
+}

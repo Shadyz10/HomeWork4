@@ -1,0 +1,13 @@
+.light {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.block {
+    padding: 50px 50px;
+    display: block;
+    align-items: center;    
+    width: 200px;
+}
